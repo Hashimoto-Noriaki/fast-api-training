@@ -6,3 +6,4 @@ app = FastAPI()#インスタンス化
 async def index():
     return {"message":"FastAPIだぞ"}
 
+# Swagger
