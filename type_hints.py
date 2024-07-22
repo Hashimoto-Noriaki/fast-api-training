@@ -1,3 +1,4 @@
+# 型ヒント
 price:int = 1000
 tax:float = 1.1
 
