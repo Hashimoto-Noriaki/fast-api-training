@@ -10,7 +10,6 @@ async def country(country_name: Optional[str] = None, country_no: Optional[int] 
         "country_name": country_name,
         "country_no": country_no
     }
-
 #http://127.0.0.1:8000/countries/
 
 # クエリパラメーター
