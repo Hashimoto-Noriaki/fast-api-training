@@ -11,3 +11,7 @@ Python3 type_hints.py
 ```
 source venv/bin/activate
 ```
+- fastapiとuvicornのインストール
+```
+ pip install fastapi uvicorn
+```
